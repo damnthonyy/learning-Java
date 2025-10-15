@@ -3,10 +3,10 @@
 ## roadmap
 
 -[x] 1_Variables
-- [x] 2_Opérateurs
+- [x] 2_Opp
 - [x] 3_Conditions
-- [x] 4_Boucles
-- [ ] 5_Méthodes
+- [x] 4_Boucle
+- [ ] 5_Méthod
 - [ ] 6_Classes & Objects 
 - [ ] 7_Tableaux & collections
 - [ ] 8_Exceptions
