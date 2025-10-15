@@ -2,7 +2,7 @@
 
 ## roadmap
 
--[x] 1_Variables
+- [x] 1_Variables
 - [x] 2_Opp
 - [x] 3_Conditions
 - [x] 4_Boucle
