@@ -1,4 +1,4 @@
-package opérateur;
+package opérateurs;
 
 public class Main {
     public static void main(String[] args) {
