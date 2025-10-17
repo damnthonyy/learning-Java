@@ -6,7 +6,7 @@
 - [x] 2_Opp
 - [x] 3_Conditions
 - [x] 4_Boucle
-- [ ] 5_Méthod
+- [x] 5_Méthod
 - [ ] 6_Classes & Objects 
 - [ ] 7_Tableaux & collections
 - [ ] 8_Exceptions
