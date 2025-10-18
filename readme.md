@@ -8,5 +8,5 @@
 - [x] 4_Boucle
 - [x] 5_Méthod
 - [ ] 6_Classes & Objects 
-- [ ] 7_Tableaux & collections
+- [x] 7_Tableaux & collections
 - [ ] 8_Exceptions
